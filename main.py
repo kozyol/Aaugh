@@ -84,7 +84,7 @@ class AaughApp(MDApp):
         # Github Dialog
         self.Github = MDDialog(
             title = "Developers",
-            text = "NetworkDeus: https://github.com/NetworkDeus\nKourva: https://github.com/Kourva",
+            text = "NetworkDeus: https://github.com/NetworkDeus\nkozyol: https://github.com/kozyol",
             buttons = [
                 MDFlatButton(
                     text = "Close",
